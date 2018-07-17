@@ -1,0 +1,3 @@
+﻿"TestForMixedActivity","http://drmcninja.com/feed/"
+"TestForMixedActivity","http://feeds.reuters.com/Reuters/worldNews"
+"TestForMixedActivity","http://drmcninja.com/feed/"

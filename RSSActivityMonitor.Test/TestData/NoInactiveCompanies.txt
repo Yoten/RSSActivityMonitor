@@ -1,0 +1,6 @@
+﻿"Microsoft","https://blogs.microsoft.com/feed/"
+"NASA","https://www.nasa.gov/rss/dyn/image_of_the_day.rss"
+"Reuters","http://feeds.reuters.com/Reuters/entertainment"
+"reuters","http://feeds.reuters.com/Reuters/domesticNews"
+"REUTERS","http://feeds.reuters.com/Reuters/worldNews"
+"Wirecutter","https://thewirecutter.com/feed/"
